@@ -1,2 +1,4 @@
-My first readme
-Version Control is amazing!
+# My first readme
+---
+---
+## Version Control
